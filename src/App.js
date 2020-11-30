@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import './App.css';
-import Discover from "./components/discover";
-import About from "./components/about";
-import Search from "./components/search";
+import Discover from "./components/Pages/Discover";
+import About from "./components/Pages/About";
+import Search from "./components/Pages/Search";
 import Navbar from "./components/NavTabs";
 
 
